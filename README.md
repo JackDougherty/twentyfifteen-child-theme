@@ -1,12 +1,11 @@
 # twentyfifteen-child-theme
-WordPress TwentyFifteen child theme with author/date metadata displayed in subheader near top of page/post, and sidebar to the right
+The WordPress TwentyFifteen base theme is responsive across devices, with vertical menus to organize large amounts of content for my academic courses and projects. This child theme offers two modifications:
 
-## Based on helpful tutorials
+- sidebar menu positioned on the right side of primary content
+- author byline and date at the top of posts/pages, not the bottom
 
+## Created with help from these tutorials
+
+- WordPress Codex TwentyFifteen https://codex.wordpress.org/Twenty_Fifteen
 - How to customize TwentyFifteen to make it your own http://premium.wpmudev.org/blog/customize-twenty-fifteen
 - Remove author (entry-footer metadata) from WordPress https://shortbread.me/remove-author-entry-footer-metadata-from-wordpress-twentyfifteen/
-
-## on my to do list
-- insert small logo above menu
-- see how font sizes appear in responsive tester, and different devices
-- add screenshot
