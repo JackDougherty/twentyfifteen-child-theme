@@ -9,3 +9,5 @@ The WordPress TwentyFifteen base theme is responsive across devices, with vertic
 - WordPress Codex TwentyFifteen https://codex.wordpress.org/Twenty_Fifteen
 - How to customize TwentyFifteen to make it your own http://premium.wpmudev.org/blog/customize-twenty-fifteen
 - Remove author (entry-footer metadata) from WordPress https://shortbread.me/remove-author-entry-footer-metadata-from-wordpress-twentyfifteen/
+
+## Feedback and pull requests welcome
