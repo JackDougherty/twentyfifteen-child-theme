@@ -12,4 +12,7 @@ Note that TwentyFifteen base theme does *not* display the admin's name at either
 - How to customize TwentyFifteen to make it your own http://premium.wpmudev.org/blog/customize-twenty-fifteen
 - Remove author (entry-footer metadata) from WordPress https://shortbread.me/remove-author-entry-footer-metadata-from-wordpress-twentyfifteen/
 
+## To install
+Download the zipped file from this GitHub master page, and upload into your WordPress.org themes. Requires TwentyFifteen theme, since this is a child theme of it.
+
 ## Feedback and pull requests welcome
