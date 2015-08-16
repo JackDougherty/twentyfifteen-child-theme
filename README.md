@@ -4,7 +4,7 @@ The WordPress TwentyFifteen base theme is responsive across devices, with vertic
 - sidebar menu positioned on the right side of primary content
 - author byline and date at the top of posts/pages, not bottom
 
-Note that TwentyFifteen base theme does *not* display the admin's name at either top or bottom of the post, until another author creates a post (thereby making it a multi-site blog), and then all posts will have bylines. The same principle holds true for pages: no byline will appear until another author/editor/admin creates a page, then all existing pages will have bylines.
+Note that TwentyFifteen base theme does *not* display the admin's name at either top or bottom of the post, until another author creates a post (thereby making it a multi-author blog), and then all posts will have bylines. The same principle holds true for pages: no byline will appear until another author/editor/admin creates a page, then all existing pages will have bylines.
 
 ## Created with help from these tutorials
 
