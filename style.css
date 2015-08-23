@@ -5,12 +5,18 @@ Description:  Twenty Fifteen Child Theme
 Author:       Jack Dougherty
 Author URI:   http://github.com/jackdougherty
 Template:     twentyfifteen
-Version:      2015-08-15
+Version:      2015-08-23
 License:      GNU General Public License v2 or later
 License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
 Text Domain:  twenty-fifteen-child
 */
+
+/* reveal submenu items when parent/sibling page is active, not only when down-arrow is clicked
+http://stackoverflow.com/questions/32122117/wordpress-twentyfifteen-submenu-items-to-display-when-parent-sibling-page-is-act/ */
+.main-navigation ul .current-menu-item ul {
+    display: block;
+}
 
 /* move sidebar to the right
 http://premium.wpmudev.org/blog/customize-twenty-fifteen */
