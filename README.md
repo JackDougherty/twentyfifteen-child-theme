@@ -19,6 +19,6 @@ Download the zipped file from this GitHub master page, and upload into your Word
 
 ## To add logo above menu
 
-To add 250x250 logo above the menu, follow instructions on this page (https://wordpress.org/support/topic/how-to-add-business-logo-as-header-at-top-of-left-side-tool-bar) and add code directly to style.css, or use Add Custom CSS plugin  (https://wordpress.org/plugins/wp-add-custom-css/) 
+To add 250x250 logo above the menu, follow instructions on this page (https://wordpress.org/support/topic/how-to-add-business-logo-as-header-at-top-of-left-side-tool-bar) and add code directly to style.css, or use WP Add Custom CSS plugin  (https://wordpress.org/plugins/wp-add-custom-css/) 
 
 ## Feedback and pull requests welcome
