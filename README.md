@@ -17,4 +17,8 @@ Note that TwentyFifteen base theme does *not* display the admin's name at either
 ## To install
 Download the zipped file from this GitHub master page, and upload into your WordPress.org themes. Requires TwentyFifteen theme, since this is a child theme of it.
 
+## To add logo above menu
+
+To add 250x250 logo above the menu, follow instructions on this page (https://wordpress.org/support/topic/how-to-add-business-logo-as-header-at-top-of-left-side-tool-bar) and add code directly to style.css, or use Add Custom CSS plugin  (https://wordpress.org/plugins/wp-add-custom-css/) 
+
 ## Feedback and pull requests welcome
